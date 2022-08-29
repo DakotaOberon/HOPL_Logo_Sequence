@@ -1,0 +1,46 @@
+{
+  "resources": [
+    {"id":{"name":"HOPLLogoSprite","path":"sprites/HOPLLogoSprite/HOPLLogoSprite.yy",},"order":1,},
+    {"id":{"name":"HOPLLogoSequence","path":"sequences/HOPLLogoSequence/HOPLLogoSequence.yy",},"order":0,},
+    {"id":{"name":"HOPLLogoPiece","path":"objects/HOPLLogoPiece/HOPLLogoPiece.yy",},"order":3,},
+    {"id":{"name":"HOPLLogoObject","path":"objects/HOPLLogoObject/HOPLLogoObject.yy",},"order":2,},
+    {"id":{"name":"ExampleRoom","path":"rooms/ExampleRoom/ExampleRoom.yy",},"order":1,},
+  ],
+  "Options": [
+    {"name":"Android","path":"options/android/options_android.yy",},
+    {"name":"HTML5","path":"options/html5/options_html5.yy",},
+    {"name":"iOS","path":"options/ios/options_ios.yy",},
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"tvOS","path":"options/tvos/options_tvos.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+  ],
+  "defaultScriptType": 1,
+  "isEcma": false,
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"ExampleRoom","path":"rooms/ExampleRoom/ExampleRoom.yy",},},
+  ],
+  "Folders": [
+    {"folderPath":"folders/HOPL Logo Sequence.yy","order":3,"resourceVersion":"1.0","name":"HOPL Logo Sequence","tags":[],"resourceType":"GMFolder",},
+  ],
+  "AudioGroups": [
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+  ],
+  "TextureGroups": [
+    {"isScaled":true,"compressFormat":"bz2","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2022.6.1.26",
+  },
+  "resourceVersion": "1.5",
+  "name": "HOPL Logo Sequence",
+  "tags": [],
+  "resourceType": "GMProject",
+}
